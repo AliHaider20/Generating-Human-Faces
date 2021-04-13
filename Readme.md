@@ -3,8 +3,8 @@
 Generating Human Faces is a project which generates human faces based on a given dataset of human faces.
 
 Structure of the project :-
-	- Generator 
-	- Discriminator
+- Generator 
+- Discriminator
 	
 
 
