@@ -15,3 +15,5 @@ Requirements:
 Numpy(>=1.8.2)
 Pytorch (>= 1.5.0)
 Matplotlib (>= 3.1.0)
+
+Dataset - https://www.kaggle.com/jessicali9530/celeba-dataset
