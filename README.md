@@ -2,7 +2,7 @@
 
 Generating Human Faces is a project which generates human faces based on a given dataset of human faces.
 
-## Structure of the project :-
+## Structure of the project:
 
 - Generator (Transposed Convolution) :- The purpose of the **Generator** is to **generate** images closest to the real images in the dataset. Uses **Tanh** as activation function. 
 
@@ -16,4 +16,5 @@ Numpy(>=1.8.2)
 Pytorch (>= 1.5.0)
 Matplotlib (>= 3.1.0)
 
-## Dataset - https://www.kaggle.com/jessicali9530/celeba-dataset
+## Dataset:
+https://www.kaggle.com/jessicali9530/celeba-dataset
